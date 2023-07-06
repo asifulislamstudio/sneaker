@@ -69,3 +69,58 @@ nav{
     color: black;
     margin-right: 10px;
 }
+/* hero section start here  */
+
+.hero-container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #EFEFEF;
+    padding:0px 180px;
+
+}
+.hrimage{
+    height: 600px;
+}
+.btxt{
+    font-family: syne;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+.subtitle{
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 10px;
+
+}
+.info{
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 20px;
+
+}
+.txt-bg-color{
+   color: #A0C49D;
+   background-color: black;
+   padding-left: 20px;
+   padding-right:20px;
+   padding-bottom: 5px;
+   border-radius: 20px;
+}
+
+.feature{
+margin-top: 30px;
+}
+.sec-title{
+    font-family: syne;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+}
+.sec-sub-title{
+    text-align: center;
+    
+}
